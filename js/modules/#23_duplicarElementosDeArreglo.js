@@ -1,4 +1,4 @@
-export function duplicarArreglo(arr) {
+export function duplicar(arr) {
     let new_rr = arr.map(num => num * 2);
-    return new_rr
+    return new_rr;
 }

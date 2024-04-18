@@ -1,11 +1,11 @@
 import prompt from 'async-prompt'
 import sumarRango from "./modules/#8_sumarRangoDeNumeros.js"
 import numerosAPalabras from './modules/#27_traducirNumerosAPalabras.js'
-import duplicarArreglo from '.modules/#23_duplicarElementosDeArreglo'
+import duplicar from './modules/#23_duplicarElementosDeArreglo.js'
 
 //23. Duplicar elementos de arreglo
 //
-console.log(duplicarArreglo([1,2,3]));
+console.log(duplicar([1,2,3]));
 
 //27. Traducir números a palabras 
 //
